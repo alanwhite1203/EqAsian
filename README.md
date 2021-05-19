@@ -96,5 +96,9 @@ Spent Average	4104.9327
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/IrCurveIntroduction.html
+
+https://bitbucket.org/cmrm11/eqasian/downloads/EqAsian-2.pdf
+
